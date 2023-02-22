@@ -244,4 +244,5 @@ ul {
 .portfolio-descr {
     line-height: calc(24/16);
     letter-spacing: 0.02em;
+    color: var(--color-main);
 }
